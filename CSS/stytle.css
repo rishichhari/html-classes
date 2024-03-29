@@ -1,12 +1,83 @@
-#box{
-    background-color: blue;
-    color: red;
+
+h4{
+    color: rgb(212, 177, 247);
+    background-color:rgb(54, 32, 2);
+    text-shadow: 5dvh;
+    text-align: right
+    
+    ;
+
+    
+}
+h4{
+    text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: line-through;
+    text-decoration-color: blue;
+    text-decoration: none;
 }
 
-.heading{
-    color: darkmagenta;
+#h1{
+    font-weight: lighter;
+}
+h2{
+    font-weight: bold;
+}
+h3{
+    font-weight: lighter;
+}
+om{
+    font-weight: lighter;
 }
 
-button{
-    color: gray;
+#one
+{
+    font-family: arial;
+    color: crimson;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
 }
+#two{
+    font-family: 'Gill Sans';
+    color: darkcyan;
+    font-weight: bolder;
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+ #para1{
+    font-size: 25px;
+    color: brown;
+    line-height: 30px;
+    text-transform: lowercase;
+ }
+ #para2{
+    font-size: 40px;
+    color: rgb(94, 119, 68);
+    line-height: 50px;
+    text-transform: capitalize;
+ }
+ #para3{
+    font-size: 30px;
+    color: rgb(104, 5, 99)
+    line-height:normal;
+    text-transform: uppercase;
+ }
+
+ #high{
+    text-transform: capitalize;
+    text-align: center;
+ }
+
+ #outer{
+    font-size: 25px;
+ }
+ #inner{
+    font-size: 10px;
+ }
+
+ * {
+    font-family: 'Times New Roman', Times, serif;
+ }
